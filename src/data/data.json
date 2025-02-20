@@ -1,0 +1,524 @@
+[
+    {
+        "game": "Marvel's Spider-Man 2",
+        "price": 49000,
+        "platform": "Steam",
+        "publisher": "Sony Interactive Entertainment"
+    },
+    {
+        "game": "Marvel's Spider-Man 2 - Digital Deluxe Upgrade",
+        "price": 0,
+        "platform": "Steam",
+        "publisher": "Sony Interactive Entertainment"
+    },
+    {
+        "game": "Marvel's Spider-Man: Miles Morales",
+        "price": 23450,
+        "platform": "Steam",
+        "publisher": "Sony Interactive Entertainment"
+    },
+    {
+        "game": "Marvel’s Spider-Man Remastered",
+        "price": 39500,
+        "platform": "Steam",
+        "publisher": "Sony Interactive Entertainment"
+    },
+    {
+        "game": "The Last of Us™ Part I",
+        "price": 16464,
+        "platform": "Steam",
+        "publisher": "Sony Interactive Entertainment"
+    },
+    {
+        "game": "Horizon Zero Dawn™ Remastered",
+        "price": 7000,
+        "platform": "Steam",
+        "publisher": "Sony Interactive Entertainment"
+    },
+    {
+        "game": "Horizon Forbidden West™ Complete Edition",
+        "price": 33600,
+        "platform": "Steam",
+        "publisher": "Sony Interactive Entertainment"
+    },
+    {
+        "game": "God of War",
+        "price": 21000,
+        "platform": "Steam",
+        "publisher": "Sony Interactive Entertainment"
+    },
+    {
+        "game": "Ghost of Tsushima: Director's Cut",
+        "price": 42000,
+        "platform": "Steam",
+        "publisher": "Sony Interactive Entertainment"
+    },
+    {
+        "game": "Ratchet & Clank: Rift Apart",
+        "price": 23100,
+        "platform": "Steam",
+        "publisher": "Sony Interactive Entertainment"
+    },
+    {
+        "game": "Sackboy™: A Big Adventure",
+        "price": 23100,
+        "platform": "Steam",
+        "publisher": "Sony Interactive Entertainment"
+    },
+    {
+        "game": "UNCHARTED™: Legacy of Thieves Collection",
+        "price": 21000,
+        "platform": "Steam",
+        "publisher": "Sony Interactive Entertainment"
+    },
+    {
+        "game": "Days Gone",
+        "price": 8750,
+        "platform": "Steam",
+        "publisher": "Sony Interactive Entertainment"
+    },
+    {
+        "game": "DEATH STRANDING DIRECTOR'S CUT",
+        "price": 13999,
+        "platform": "Steam",
+        "publisher": "Sony Interactive Entertainment"
+    },
+    {
+        "game": "FINAL FANTASY XVI COMPLETE EDITION",
+        "price": 55999,
+        "platform": "Steam",
+        "publisher": "Square Enix"
+    },
+    {
+        "game": "FINAL FANTASY XIII-2 (NE)",
+        "price": 11040,
+        "platform": "Steam",
+        "publisher": "Square Enix"
+    },
+    {
+        "game": "FINAL FANTASY VII REMAKE INTERGRADE",
+        "price": 37500,
+        "platform": "Steam",
+        "publisher": "Square Enix"
+    },
+    {
+        "game": "Grand Theft Auto V",
+        "price": 17477,
+        "platform": "Steam",
+        "publisher": "Rockstar Games"
+    },
+    {
+        "game": "GTA Collection (ROW)",
+        "price": 6600,
+        "platform": "Steam",
+        "publisher": "Rockstar Games"
+    },
+    {
+        "game": "Red Dead Redemption 2: Ultimate Edition",
+        "price": 51236,
+        "platform": "Steam",
+        "publisher": "Rockstar Games"
+    },
+    {
+        "game": "STAR WARS Jedi: Fallen Order Deluxe Edition",
+        "price": 16464,
+        "platform": "Steam",
+        "publisher": "Electronic Arts"
+    },
+    {
+        "game": "STAR WARS™: Squadrons",
+        "price": 4785,
+        "platform": "Steam",
+        "publisher": "Electronic Arts"
+    },
+    {
+        "game": "Star Wars Collection",
+        "price": 43500,
+        "platform": "Steam",
+        "publisher": "Electronic Arts"
+    },
+    {
+        "game": "Assassin’s Creed® Chronicles: Trilogy",
+        "price": 4770,
+        "platform": "Steam",
+        "publisher": "Ubisoft"
+    },
+    {
+        "game": "Assassin's Creed Odyssey - Ultimate Edition",
+        "price": 19975,
+        "platform": "Steam",
+        "publisher": "Ubisoft"
+    },
+    {
+        "game": "Assassin's Creed Origins - Gold Edition",
+        "price": 14970,
+        "platform": "Steam",
+        "publisher": "Ubisoft"
+    },
+    {
+        "game": "Assassin's Creed II",
+        "price": 3396,
+        "platform": "Steam",
+        "publisher": "Ubisoft"
+    },
+    {
+        "game": "The Witcher 3: Wild Hunt - Complete Edition",
+        "price": 9950,
+        "platform": "Steam",
+        "publisher": "CD Projekt Red"
+    },
+    {
+        "game": "Cyberpunk 2077",
+        "price": 19999,
+        "platform": "Steam",
+        "publisher": "CD Projekt Red"
+    },
+    {
+        "game": "Palworld",
+        "price": 15500,
+        "platform": "Steam",
+        "publisher": "Pocketpair"
+    },
+    {
+        "game": "HELLDIVERS™ 2",
+        "price": 28000,
+        "platform": "Steam",
+        "publisher": "Arrowhead Game Studios"
+    },
+    {
+        "game": "Valheim",
+        "price": 7700,
+        "platform": "Steam",
+        "publisher": "Iron Gate Studio"
+    },
+    {
+        "game": "Among Us",
+        "price": 2400,
+        "platform": "Steam",
+        "publisher": "Innersloth"
+    },
+    {
+        "game": "Mafia Trilogy",
+        "price": 12997,
+        "platform": "xbox",
+        "publisher": "2K Games"
+    },
+    {
+        "game": "Cyberpunk 2077: Edición definitiva",
+        "price": 32039,
+        "platform": "xbox",
+        "publisher": "CD Projekt Red"
+    },
+    {
+        "game": "The Witcher 3: Wild Hunt – Complete Edition",
+        "price": 10290,
+        "platform": "xbox",
+        "publisher": "CD Projekt Red"
+    },
+    {
+        "game": "Forza Motorsport Premium Edition",
+        "price": 44995,
+        "platform": "xbox",
+        "publisher": "Xbox Game Studios"
+    },
+    {
+        "game": "Forza Horizon 5 Premium Edition",
+        "price": 44994,
+        "platform": "xbox",
+        "publisher": "Xbox Game Studios"
+    },
+    {
+        "game": "El paquete Hellblade",
+        "price": 31922,
+        "platform": "xbox",
+        "publisher": "Xbox Game Studios"
+    },
+    {
+        "game": "Age of Empires: colección definitiva",
+        "price": 19799,
+        "platform": "xbox",
+        "publisher": "Xbox Game Studios"
+    },
+    {
+        "game": "Sea of Thieves Deluxe Edition",
+        "price": 8495,
+        "platform": "xbox",
+        "publisher": "Xbox Game Studios"
+    },
+    {
+        "game": "Gears of War 4",
+        "price": 9995,
+        "platform": "xbox",
+        "publisher": "Xbox Game Studios"
+    },
+    {
+        "game": "Gears 5 - Edición del Juego del Año",
+        "price": 12497,
+        "platform": "xbox",
+        "publisher": "Xbox Game Studios"
+    },
+    {
+        "game": "Halo Infinite (Campaña)",
+        "price": 19920,
+        "platform": "xbox",
+        "publisher": "Xbox Game Studios"
+    },
+    {
+        "game": "Paquete digital de Halo: la colección Jefe Maestro",
+        "price": 6999,
+        "platform": "xbox",
+        "publisher": "Xbox Game Studios"
+    },
+    {
+        "game": "Halo Wars 2: Standard Edition",
+        "price": 7475,
+        "platform": "xbox",
+        "publisher": "Xbox Game Studios"
+    },
+    {
+        "game": "Hogwarts Legacy: Digital Deluxe Edition",
+        "price": 20699,
+        "platform": "xbox",
+        "publisher": "Warner Bros. Games"
+    },
+    {
+        "game": "LEGO Star Wars: La Saga De Skywalker",
+        "price": 34999,
+        "platform": "xbox",
+        "publisher": "Warner Bros. Games"
+    },
+    {
+        "game": "Mortal Kombat 11 Ultimate",
+        "price": 14749,
+        "platform": "xbox",
+        "publisher": "Warner Bros. Games"
+    },
+    {
+        "game": "Batman: Arkham Collection",
+        "price": 11725,
+        "platform": "xbox",
+        "publisher": "Warner Bros. Games"
+    },
+    {
+        "game": "Red Dead Redemption 2: Edición Definitiva",
+        "price": 23999,
+        "platform": "xbox",
+        "publisher": "Rockstar Games"
+    },
+    {
+        "game": "Alan Wake Remastered",
+        "price": 6764,
+        "platform": "xbox",
+        "publisher": "Remedy Entertainment"
+    },
+    {
+        "game": "Control Ultimate Edition",
+        "price": 6998,
+        "platform": "xbox",
+        "publisher": "505 Games"
+    },
+    {
+        "game": "FINAL FANTASY XV ROYAL EDITION",
+        "price": 11199,
+        "platform": "xbox",
+        "publisher": "Square Enix"
+    },
+    {
+        "game": "NieR:Automata BECOME AS GODS Edition",
+        "price": 11720,
+        "platform": "xbox",
+        "publisher": "Square Enix"
+    },
+    {
+        "game": "Marvel's Guardians of the Galaxy: Digital Deluxe Edition",
+        "price": 25499,
+        "platform": "xbox",
+        "publisher": "Square Enix"
+    },
+    {
+        "game": "Tomb Raider: Definitive Edition",
+        "price": 4980,
+        "platform": "xbox",
+        "publisher": "Square Enix"
+    },
+    {
+        "game": "ELDEN RING",
+        "price": 43000,
+        "platform": "xbox",
+        "publisher": "Bandai Namco"
+    },
+    {
+        "game": "ELDEN RING Shadow of the Erdtree Premium Bundle",
+        "price": 33999,
+        "platform": "xbox",
+        "publisher": "Bandai Namco"
+    },
+    {
+        "game": "Pase de temporada 2 de DRAGON BALL Z: KAKAROT",
+        "price": 29999,
+        "platform": "xbox",
+        "publisher": "Bandai Namco"
+    },
+    {
+        "game": "DRAGON BALL XENOVERSE 2",
+        "price": 5985,
+        "platform": "xbox",
+        "publisher": "Bandai Namco"
+    },
+    {
+        "game": "Dragon Ball FighterZ - FighterZ Pass 2",
+        "price": 8450,
+        "platform": "xbox",
+        "publisher": "Bandai Namco"
+    },
+    {
+        "game": "SCARLET NEXUS Edición Ultimate",
+        "price": 21900,
+        "platform": "xbox",
+        "publisher": "Bandai Namco"
+    },
+    {
+        "game": "Starfield Premium Edition",
+        "price": 85999,
+        "platform": "xbox",
+        "publisher": "Bethesda Softworks"
+    },
+    {
+        "game": "The Elder Scrolls V: Skyrim Anniversary Upgrade",
+        "price": 13049,
+        "platform": "xbox",
+        "publisher": "Bethesda Softworks"
+    },
+    {
+        "game": "Fallout 76: Survival Bundle",
+        "price": 2999,
+        "platform": "xbox",
+        "publisher": "Bethesda Softworks"
+    },
+    {
+        "game": "DOOM Slayers Collection",
+        "price": 6764,
+        "platform": "xbox",
+        "publisher": "Bethesda Softworks"
+    },
+    {
+        "game": "Dishonored Definitive Edition",
+        "price": 6950,
+        "platform": "xbox",
+        "publisher": "Bethesda Softworks"
+    },
+    {
+        "game": "Quake",
+        "price": 2839,
+        "platform": "xbox",
+        "publisher": "Bethesda Softworks"
+    },
+    {
+        "game": "Wolfenstein II: The New Colossus Digital Deluxe Edition",
+        "price": 9099,
+        "platform": "xbox",
+        "publisher": "Bethesda Softworks"
+    },
+    {
+        "game": "Edición Deluxe de STAR WARS Jedi: Survivor",
+        "price": 70900,
+        "platform": "xbox",
+        "publisher": "Electronic Arts"
+    },
+    {
+        "game": "Battlefield 4",
+        "price": 2980,
+        "platform": "xbox",
+        "publisher": "Electronic Arts"
+    },
+    {
+        "game": "Hollow Knight: Edición Corazón Vacío",
+        "price": 4999,
+        "platform": "xbox",
+        "publisher": "Team Cherry"
+    },
+    {
+        "game": "Marvel vs. Capcom: Infinite - Deluxe Edition",
+        "price": 8686,
+        "platform": "xbox",
+        "publisher": "Capcom"
+    },
+    {
+        "game": "Mega Man 30th Anniversary Bundle",
+        "price": 25895,
+        "platform": "xbox",
+        "publisher": "Capcom"
+    },
+    {
+        "game": "No Man's Sky",
+        "price": 20249,
+        "platform": "xbox",
+        "publisher": "Hello Games"
+    },
+    {
+        "game": "Among Us",
+        "price": 3399,
+        "platform": "xbox",
+        "publisher": "Innersloth"
+    },
+    {
+        "game": "Ori and the Will of the Wisps",
+        "price": 8246,
+        "platform": "xbox",
+        "publisher": "Moon Studios"
+    },
+    {
+        "game": "Crash Bandicoot - Lote Crashiversary",
+        "price": 41199,
+        "platform": "xbox",
+        "publisher": "Activision"
+    },
+    {
+        "game": "Watch Dogs: Legion Edición Ultimate",
+        "price": 22374,
+        "platform": "xbox",
+        "publisher": "Ubisoft"
+    },
+    {
+        "game": "Watch Dogs 2 - Edición Gold",
+        "price": 11249,
+        "platform": "xbox",
+        "publisher": "Ubisoft"
+    },
+    {
+        "game": "Rocksmith 2014 Edition - Remastered",
+        "price": 3899,
+        "platform": "xbox",
+        "publisher": "Ubisoft"
+    },
+    {
+        "game": "Immortals Fenyx Rising Gold Edition",
+        "price": 24584,
+        "platform": "xbox",
+        "publisher": "Ubisoft"
+    },
+    {
+        "game": "Deluxe Edition de Assassin's Creed Mirage",
+        "price": 49999,
+        "platform": "xbox",
+        "publisher": "Ubisoft"
+    },
+    {
+        "game": "Assassin's Creed Valhalla: Dawn of Ragnarök",
+        "price": 30999,
+        "platform": "xbox",
+        "publisher": "Ubisoft"
+    },
+    {
+        "game": "Assassin's Creed Odyssey - GOLD EDITION",
+        "price": 17465,
+        "platform": "xbox",
+        "publisher": "Ubisoft"
+    },
+    {
+        "game": "Castlevania Advance Collection",
+        "price": 4975,
+        "platform": "xbox",
+        "publisher": "Konami"
+    }
+]
