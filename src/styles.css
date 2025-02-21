@@ -36,7 +36,7 @@ h1 {
     padding: 20px;
     width: 250px;
     height: 200px; /* Para que todas las tarjetas sean del mismo tamaño */
-    box-shadow: 0 4px 10px rgba(255, 255, 255, 0.1);
+    box-shadow: 0 4px 10px rgba(106, 10, 79, 0.1);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     text-align: center;
     display: flex;
@@ -80,6 +80,17 @@ h1 {
 }
 .card img {
     background-color: transparent !important;
+}
+
+input {
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid rgb(97, 32, 158);
+    color: black;
+    font-size: 1.2rem;
+    outline: none;
+    padding: 10px 15px;
+    width: 100%;
 }
 
 /* Asegurar que la vista en dispositivos móviles sea responsiva */
